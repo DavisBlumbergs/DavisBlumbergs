@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavisBlumbergs
 - 👀 I’m interested in DevOps, Full Stack, Business Logic, Automatization
-- 🌱 I’m currently learning how to create web shop infrastructure & web application from scratch.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning all of the above.
+- 💞️ I’m looking to collaborate on Full Stack & DevOps
 - 📫 How to reach me: davisblumb@gmail.com
 
 <!---
